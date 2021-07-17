@@ -10,7 +10,7 @@ The main purpose of this project was to get started with Flutter by developing a
 ###### 7.0 inch tablet
 ![Screenshot of the App on a 7.0 inch tablet](Screenshots/Screenshot_Tablet_7.0_Zoll_2.png "screenshot 7.0 inch tablet")
 ###### 9.6 inch tablet
-![Screenshot of the App on a 9.6 inch tablet](Screenshots/Screenshot_Tablet_9.6_Zoll_2.jpg.png "Screenshot 9.6 inch tablet")
+![Screenshot of the App on a 9.6 inch tablet](Screenshots/Screenshot_Tablet_9.6_Zoll_2.png "Screenshot 9.6 inch tablet")
 
 
 
