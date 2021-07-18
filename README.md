@@ -3,7 +3,7 @@
 A simple, mobile calculator app for summation, subtraction, multiplication, division and working with percentages.
 The main purpose of this project was to get started with Flutter by developing a mobile app. The goal was to be able to build this app for IOS and Android with just one code base. The app is currently available in the [Google Play Store](https://play.google.com/store/apps/details?id=com.matze.taschenrechner). Unfortunately, I wasn't able to build a version for the IOS platform.
 
-Download Size: 6,87 MB
+Download Size: 6.87 MB
 
 ### Screenshots
 
