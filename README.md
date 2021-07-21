@@ -7,11 +7,11 @@ Download Size: 6.87 MB
 
 ### Screenshots
 
-##### Smartphone
-<img src="Screenshots/Screenshot_Handy_2.jpg" alt="Screenshot of the App on a smartphone" width="250px">
+- ##### Smartphone
+  <img src="Screenshots/Screenshot_Handy_2.jpg" alt="Screenshot of the App on a smartphone" width="250px">
 
-###### 7.0 inch tablet
-<img src="Screenshots/Screenshot_Tablet_7.0_Zoll_2.png" alt="Screenshot of the App on a 7.0 inch tablet" width="300px">
+- ###### 7.0 inch tablet
+  <img src="Screenshots/Screenshot_Tablet_7.0_Zoll_2.png" alt="Screenshot of the App on a 7.0 inch tablet" width="300px">
 
-###### 9.6 inch tablet
-<img src="Screenshots/Screenshot_Tablet_9.6_Zoll_2.png" alt="Screenshot of the App on a 9.6 inch tablet" width="350px">
+- ###### 9.6 inch tablet
+  <img src="Screenshots/Screenshot_Tablet_9.6_Zoll_2.png" alt="Screenshot of the App on a 9.6 inch tablet" width="350px">
